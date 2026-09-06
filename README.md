@@ -3,7 +3,7 @@
 > **An open-source AI research intelligence engine that helps researchers understand literature, identify research gaps, detect contradictions, and generate evidence-backed research directions.**
 
 [![Status](https://img.shields.io/badge/status-in%20development-orange)]()
-[![License](https://img.shields.io/badge/license-MIT-blue)]()
+[![License](https://img.shields.io/badge/license-Apache2.0-yellow)]()
 [![Python](https://img.shields.io/badge/Python-3.11+-blue)]()
 [![Next.js](https://img.shields.io/badge/Next.js-TypeScript-black)]()
 
